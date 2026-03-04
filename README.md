@@ -173,6 +173,13 @@ Sentinel-2 data are provided by the European Union’s Copernicus Programme via 
 Follow your journal/institution guidelines for Copernicus/Sentinel attribution.
 
 ### Software citation (recommended metadata)
+If you use this repository in academic work, please cite it as:
+
+Yu, H. (2026). *Sentinel-2 Optical Pipeline* (Version v0.1.0).  
+GitHub. https://github.com/Ha-eunYu/s2-optical-pipeline
+
+Citation metadata is also available in `CITATION.cff`.
+
 - Author: Ha-eun Yu
 - Title: Sentinel-2 Optical Pipeline
 - Year: 2026
