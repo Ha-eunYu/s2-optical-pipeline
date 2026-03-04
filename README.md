@@ -61,8 +61,7 @@ When publishing derived products, follow the **Copernicus / Sentinel attribution
 ├ s2_stac_pick_cloudfree.py
 ├ s2_s3_download_rgb.py
 ├ s2_make_rgb.py
-├ s2_make_indices.py
-└ downloads/  # (ignored) local data and outputs
+└ s2_make_indices.py
 ```
 
 
@@ -138,6 +137,19 @@ python s2_make_indices.py
 Outputs are written to:
 
 downloads/S2_INDICES/
+
+
+
+## Example Output
+
+The pipeline generates several remote sensing products from Sentinel-2 imagery, including:
+
+- RGB composite imagery
+- NDVI (Normalized Difference Vegetation Index)
+- NDWI (Normalized Difference Water Index)
+- MNDWI (Modified NDWI)
+
+Outputs are exported as GeoTIFF and PNG quicklook images for visualization and analysis.
 
 
 
