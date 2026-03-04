@@ -52,13 +52,18 @@ When publishing derived products, follow the **Copernicus / Sentinel attribution
 
 ## Repository structure
 
+```
 .
-├── s2_stac_pick_cloudfree.py
-├── s2_s3_download_rgb.py
-├── s2_make_rgb.py
-├── s2_make_indices.py
-├── environment.yml
-└── downloads/  # (ignored) local data and outputs
+├ README.md
+├ LICENSE
+├ CITATION.cff
+├ environment.yml
+├ s2_stac_pick_cloudfree.py
+├ s2_s3_download_rgb.py
+├ s2_make_rgb.py
+├ s2_make_indices.py
+└ downloads/  # (ignored) local data and outputs
+```
 
 
 
@@ -159,7 +164,7 @@ Follow your journal/institution guidelines for Copernicus/Sentinel attribution.
 
 ### Software citation (recommended metadata)
 - Author: Ha-eun Yu
-- Title: Sentinel-2 Optical Reference Pipeline
+- Title: Sentinel-2 Optical Pipeline
 - Year: 2026
 - Version: v0.1.0
 - URL: https://github.com/Ha-eunYu/s2-optical-pipeline
@@ -189,4 +194,3 @@ See the LICENSE file for details.
 - water detection
 - optical reference
 - earth observation
-- remote sensing pipeline

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sentinel-2 Optical Pipeline"
+type: software
+authors:
+  - family-names: Yu
+    given-names: Ha-eun
+year: 2026
+version: v0.1.0
+repository-code: https://github.com/Ha-eunYu/s2-optical-pipeline
+license: MIT
+keywords:
+  - Sentinel-2
+  - remote sensing
+  - NDVI
+  - NDWI
+  - spectral indices
+  - geospatial
