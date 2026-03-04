@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 # Sentinel-2 Optical Reference Pipeline
-> A Sentinel-2 remote sensing pipeline for generating RGB composites and spectral indices from Copernicus Data Space imagery.
+> A Sentinel-2 remote sensing pipeline for generating RGB imagery and water-related spectral indices (NDVI, NDWI, MNDWI) from Copernicus Data Space imagery.
 
 A Python pipeline for **remote sensing and satellite imagery processing** that generates RGB composites and spectral indices (NDVI, NDWI, MNDWI) from **Sentinel-2 Level-2A imagery** using the **Copernicus Data Space Ecosystem (STAC API + S3 access)**.
 
