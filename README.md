@@ -180,12 +180,13 @@ See the LICENSE file for details.
 - NDVI
 - NDWI
 - MNDWI
-- Copernicus Data Space Ecosystem
-- STAC API
-- geospatial analysis
+- Copernicus
+- STAC
+- geospatial
 - Python
 - SAR validation
 - flood detection
 - water detection
 - optical reference
 - earth observation
+- remote sensing pipeline
